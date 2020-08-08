@@ -1,0 +1,5 @@
+https://getbootstrap.com/docs/4.0/components/forms/ 
+https://codeforgeek.com/2014/08/session-handling-php/
+https://webcheatsheet.com/PHP/send_email_text_html_attachment.php
+https://www.webslesson.info/2016/10/insert-and-fetch-images-from-mysql-database-in-php.html
+http://www.w3programmers.com/file-upload-and-download-with-php/
